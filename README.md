@@ -21,6 +21,7 @@ git clone --depth=1 https://github.com/dcoto/typescript-hapi-starter.git <projec
 ```
 cd <project_name>
 npm install
+```
 
 - Build and run the project
 ```
